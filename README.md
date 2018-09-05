@@ -10,4 +10,6 @@ Directory /maps supported some test maps.
 + ./fdf maps/map_name
 
 #### Exemple:
-The 42 map in two modes and mountin (t1 - the name of map).
+![2D image of 42](https://github.com/ishtvan-lucor/FdF/blob/master/img/42%202D.png?raw=true "42 2D")
+![3D image of 42](https://github.com/ishtvan-lucor/FdF/blob/master/img/42%203D.png?raw=true "42 3D")
+![3D image of mountain](https://github.com/ishtvan-lucor/FdF/blob/master/img/Mountin%203D.png?raw=true "t1.fdf")
